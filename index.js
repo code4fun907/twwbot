@@ -9,11 +9,11 @@ const client = new Client({
 });
 
 const WELCOME_MESSAGE = `⚠️ **Warning!** ⚠️
-Scammers are pretending to be Will (and moderators in the server) and messaging new members.
-I will **never** message you first or ask for you to do anything.
-If someone claims to be me, **block and report them immediately,** DO NOT interact with ANYONE you dont know in dms.
+\`\`\`Scammers are pretending to be Will (and moderators in the server) and messaging new members.
+I will never message you first or ask for you to do anything.
+If someone claims to be me, block and report them immediately,DO NOT interact with ANYONE you dont know in dms.
 DO NOT ACCEPT FRIEND REQUESTS FROM PEOPLE YOU DO NOT KNOW, I WILL NEVER ADD YOU
-Stay safe! 🚀
+Stay safe! 🚀\`\`\`
 - TradeWithWill
 
 INTERESTED IN **LIVE TRADING??:** https://www.patreon.com/TradeWithWill/membership`;

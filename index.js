@@ -12,7 +12,9 @@ const WELCOME_MESSAGE = `⚠️ **Warning!** ⚠️
 Scammers are pretending to be Will (and moderators in the server) and messaging new members.
 I will **never** message you first or ask for you to do anything.
 If someone claims to be me, **block and report them immediately,** DO NOT interact with ANYONE you dont know in dms.
-Stay safe! 🚀`;
+Stay safe! 🚀
+
+INTERESTED IN **LIVE TRADING??: **https://www.patreon.com/TradeWithWill/membership`;
 
 client.once('ready', () => {
     console.log(`Logged in as ${client.user.tag}`);
